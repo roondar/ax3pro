@@ -2,3 +2,4 @@ requests
 lxml
 python-dotenv
 crypto
+pycryptodome
