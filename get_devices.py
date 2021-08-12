@@ -4,7 +4,7 @@ import json
 import hashlib
 import os
 import hmac
-import crypto.Random as Random
+import Crypto.Random as Random
 import urllib3
 from dotenv import load_dotenv
 
